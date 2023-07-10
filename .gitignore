@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Profitify/Profitify/Profitify_web/obj
+/Profitify/Profitify/Profitify_web/bin/Debug/net6.0
